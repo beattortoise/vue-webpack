@@ -1,0 +1,26 @@
+{
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "name": "somepackage",
+  "version": "1.0.0",
+  "dependencies": {
+    "webpack": "^2.2.0",
+    "vue-template-compiler": "^2.0.0"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.4",
+    "style-loader": "^0.18.2",
+    "vue": "^2.3.4",
+    "vue-loader": "^13.0.0",
+    "vue-router": "^2.7.0",
+    "webpack-dev-server": "^2.5.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "main": "webpack.config.js",
+  "description": ""
+}
